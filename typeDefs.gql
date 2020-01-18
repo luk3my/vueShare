@@ -36,7 +36,7 @@ type PostsPage {
   hasMore: Boolean
 }
 
-# Likes for Post / Favorites for Users
+# Likes for Post / Favorites for Users!
 type LikesFaves {  
   likes: Int
   favorites: [Post]
